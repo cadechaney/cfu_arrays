@@ -1,0 +1,2 @@
+
+I feel confident with arrays currently. I'm sure there is a lot more to learn. I would like to keep reviewing what we've done just to keep getting repetitions. I have no further questions but would love feedback! 
