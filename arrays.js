@@ -9,3 +9,5 @@ ages.push;
 var oldPeople [true, false, true, false, true];
 oldPeople.shift
 // Shift removes the element at the zeroth index and shifts the values at consecutive indexes down, then returns the removed value
+
+// Index position in coding is always zero. You always start counting at zero. For example, in my ages variable the starting number is 24. The index position of 24 is 0, 62 is 1, and so on.
